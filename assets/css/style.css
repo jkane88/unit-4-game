@@ -1,0 +1,24 @@
+body {
+    background-image: URL("../images/rmbg.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    margin: auto;
+    background-color: black;
+    font-family: HACK;
+
+}
+.jumbotron {
+    background-image: URL("../images/rmbg2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+}
+.card {
+    background-color: transparent;
+    color: white;
+    font-size: 22px;
+    font-weight: 900;
+}
