@@ -31,7 +31,7 @@ class Character {
         this.counter = counter;
         this.bonus = bonus;
         this.sound = sound;
-        this.image = 'assets/images/' + keyword + '.jpg';
+        this.image = 'assets/images/' + name + '.jpg';
     }
 }
 
