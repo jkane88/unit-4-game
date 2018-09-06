@@ -15,7 +15,7 @@ var p3 = $('#battle-text-3');
 var bh = $('#battle-area-header');
 
 var sound_jerry = new Audio('assets/audio/jerryNice.mp3');
-var sound_morty = new Audio('assets/audio/ohJeez.mp3');
+var sound_morty = new Audio('assets/audio/ohjeez.mp3');
 var sound_theme = new Audio('assets/audio/rickandmortytheme.mp3');
 var sound_rick = new Audio('assets/audio/rickWub.mp3');
 var sound_game = new Audio('assets/audio/showmewhatyougot.mp3');
